@@ -1,3 +1,3 @@
 # test_tasks
 
-Clearscale - resys and some NLP
+Clearscale - RecSys and some NLP
